@@ -1,5 +1,5 @@
 # Lab 8 - Starter
-**NO PARTNER: Just Do Kim**
+**PARTNER: Do Kim & Ludvig Basmajyan**
 
 **Check your Understanding**
 
